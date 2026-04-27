@@ -3,7 +3,17 @@ guid: 5392e6114c192544fbca92596e349361
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GuardaRoupa
+    second: {fileID: 2100000, guid: ec4e2af4ba710cc498b9c8b91caabbdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stainless Steel
+    second: {fileID: 2100000, guid: 6b4624a2b2d4f734eb3f70058c22fd7d, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -3,7 +3,17 @@ guid: 290cfa2c035ef4344b44242500bcff48
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LED
+    second: {fileID: 2100000, guid: e5bc643f3e1fff743a3f6eda3dc0cf73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teclado
+    second: {fileID: 2100000, guid: 592a2925dd8d54a43a07b3ccceb51f18, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
